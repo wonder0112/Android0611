@@ -26,10 +26,10 @@
 ### 第二组	廖嘉兴	王宁	菜谱：
 ### 第三组	廖鑫	梁志达	驾考题库：
 ### 第四组	郑镜鹏	郑少鹏	新闻头条：https://github.com/zhengjingpeng/Toady
-### 第五组	梁安铧	林坚滨	传统日历：
+### 第五组	梁安铧	林坚滨	传统日历：https://github.com/q524936601/CalendarView-
 ### 第六组	李涤威	陈学全	微信精选：
 ### 第七组	唐钰棋	陈锐勉	健康知识查询：https://github.com/crm0119/HealthKnowledge
-### 第八组	卢伟超	罗海杰	电话号码查询：
+### 第八组	卢伟超	罗海杰	电话号码查询：https://github.com/LHJ1711605067/SerchPhone
 ### 第九组	陈洵	杨丹丹	电影票房统计：
 ### 第十组	黄健荣	郭涵子	货币汇率查询：https://github.com/132066/CurrencyExchangeRate
 ### 第十一组	李锦佳	刘奇	字词查询：
