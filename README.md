@@ -27,17 +27,17 @@
 ### 第三组	廖鑫	梁志达	驾考题库：https://github.com/liangzhida/MyDrive
 ### 第四组	郑镜鹏	郑少鹏	新闻头条：https://github.com/zhengjingpeng/Toady
 ### 第五组	梁安铧	林坚滨	传统日历：https://github.com/q524936601/CalendarView-
-### 第六组	李涤威	陈学全	微信精选：
+### 第六组	李涤威	陈学全	微信精选：https://github.com/1711605059/WeChatNews
 ### 第七组	唐钰棋	陈锐勉	健康知识查询：https://github.com/crm0119/HealthKnowledge
 ### 第八组	卢伟超	罗海杰	电话号码查询：https://github.com/LHJ1711605067/SerchPhone
-### 第九组	陈洵	杨丹丹	电影票房统计：
+### 第九组	陈洵	杨丹丹	电影票房统计：https://github.com/1711605040/Movie172
 ### 第十组	黄健荣	郭涵子	货币汇率查询：https://github.com/132066/CurrencyExchangeRate
-### 第十一组	李锦佳	刘奇	字词查询：
+### 第十一组	李锦佳	刘奇	字词查询：https://github.com/LJJ1711605044/MyDctionary
 ### 第十二组	李振梁		周公解梦：
 ### 第十三组	陈培祺	林依欣	旅游：
 ### 第十四组	陈展航	姚苗	黄金数据：https://github.com/Fomalhaut-C/Gold
 ### 第十五组	陈飞运	陈柏坚	知乎热闻：https://github.com/1439822216/zhDaily
 ### 第十六组	陈景文	吴志行	全球股指：
-### 第十七组	冼康明	陈煜燊	足球联赛：
+### 第十七组	冼康明	陈煜燊	足球联赛：https://github.com/XKM1711605049/Football
 ### 第十八组	余石荣	余展鸿	：
 
