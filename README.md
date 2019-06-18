@@ -23,7 +23,7 @@
 
 # 移动172列表：
 ### 第一组	陈伟佳	邱龙佳	天气预报：https://github.com/1711605069/Weatherforecast
-### 第二组	廖嘉兴	王宁	菜谱：
+### 第二组	廖嘉兴	王宁	菜谱：https://github.com/ice123321/CookBook
 ### 第三组	廖鑫	梁志达	驾考题库：https://github.com/liangzhida/MyDrive
 ### 第四组	郑镜鹏	郑少鹏	新闻头条：https://github.com/zhengjingpeng/Toady
 ### 第五组	梁安铧	林坚滨	传统日历：https://github.com/q524936601/CalendarView-
@@ -32,7 +32,7 @@
 ### 第八组	卢伟超	罗海杰	电话号码查询：https://github.com/LHJ1711605067/SerchPhone
 ### 第九组	陈洵	杨丹丹	电影票房统计：https://github.com/1711605040/Movie172
 ### 第十组	黄健荣	郭涵子	货币汇率查询：https://github.com/132066/CurrencyExchangeRate
-### 第十一组	李锦佳	刘奇	字词查询：https://github.com/LJJ1711605044/MyDctionary
+### 第十一组	李锦佳	刘奇	字词查询：https://github.com/LJJ1711605044/MyDictionary1
 ### 第十二组	李振梁		周公解梦：
 ### 第十三组	陈培祺	林依欣	旅游：
 ### 第十四组	陈展航	姚苗	黄金数据：https://github.com/Fomalhaut-C/Gold
