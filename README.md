@@ -39,5 +39,5 @@
 ### 第十五组	陈飞运	陈柏坚	知乎热闻：https://github.com/1439822216/zhDaily
 ### 第十六组	陈景文	吴志行	全球股指：https://github.com/XBCJWen/stock_project
 ### 第十七组	冼康明	陈煜燊	足球联赛：https://github.com/XKM1711605049/Football
-### 第十八组	余石荣	余展鸿	：
+### 第十八组	余石荣	余展鸿	：https://github.com/1711605051/Tools
 
