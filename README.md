@@ -34,7 +34,7 @@
 ### 第十组	黄健荣	郭涵子	货币汇率查询：https://github.com/132066/CurrencyExchangeRate
 ### 第十一组	李锦佳	刘奇	字词查询：https://github.com/LJJ1711605044/MyDictionary1
 ### 第十二组	李振梁		周公解梦：https://github.com/YAOLZL/MyApplication
-### 第十三组	陈培祺	林依欣	旅游：
+### 第十三组	陈培祺	林依欣	旅游：https://github.com/PhoenixNest/Weather_Control_Device/invitations
 ### 第十四组	陈展航	姚苗	黄金数据：https://github.com/Fomalhaut-C/Gold
 ### 第十五组	陈飞运	陈柏坚	知乎热闻：https://github.com/1439822216/zhDaily
 ### 第十六组	陈景文	吴志行	全球股指：https://github.com/XBCJWen/stock_project
