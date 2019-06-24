@@ -22,22 +22,22 @@
 ### 第2组	2菜谱	孙小蝶 梁伟浩  https://github.com/1711605010/Munetext
 ### 第3组	3便民小工具	陈晓佳 肖泽锋 https://github.com/1711605019/LoveStou
 ### 第4组	4微信精选	袁詠丽 邱日明 https://github.com/qiudaxian777/WeChatSelection
-### 第5组	5日历	余文俊 谢兆裕 
-### 第6组	6姻缘	邱德凯 潘建伟
-### 第7组	7电话号码	邱达 朱剑寻  https://github.com/qiudacheng/Queryphone
-### 第8组	8周公解梦	许威 叶高俊
-### 第9组	9电影票房	孙伟豪 李文龙
+### 第5组	5日历	余文俊 谢兆裕 https://github.com/yuwenjun32/CalendarView-yuwenjun-xiezhaoyu
+### 第6组	6姻缘	邱德凯 潘建伟 https://github.com/qiudekai026/YinYuan171026QDK
+### 第7组	7电话号码	邱达成 朱剑寻  https://github.com/qiudacheng/Queryphone
+### 第8组	8周公解梦	许威 叶高俊 https://github.com/destroysix/IterpretsDreams
+### 第9组	9电影票房	孙伟豪 李文龙 https://github.com/sunweihaowei/BoxOffice2
 ### 第10组 10火车航班查询 黄烨智	https://github.com/1711605005/Train	 
 ### 第11组 12健康知识查询 陈晓琼 刘建斌 https://github.com/liujianbin552/Healthknowledge
 ### 第12组 13字词查询	黄司航		
-### 第13组 15驾考题库	吴贻标 郑燕琳
-### 第14组 16黄金数据	唐其贵		
+### 第13组 15驾考题库	吴贻标 郑燕琳  https://github.com/WYB171029/JkaoBDWYBZYL
+### 第14组 16黄金数据	唐其贵	https://github.com/tangqigui/GoldData	
 ### 第15组 17货币汇率	邝镇宏 黄鸿涛   https://github.com/leioalba/MyApp
-### 第16组 18白银数据查询 陈浚杰 陈晓辉
+### 第16组 18白银数据查询 陈浚杰 陈晓辉 
 ### 第17组 19网易新闻	曾浪平 霍林清  https://github.com/yidong17106/ProjectDemo
-### 第18组 20新华书店	李智 何昱豪
+### 第18组 20新华书店	李智 何昱豪  https://github.com/01LiZhi/StoreBook
 ### 第19组 21头条新闻	梁浩文 龚崇丽
-### 第20组 22福利彩票	杨鹏
+### 第20组 22福利彩票	杨鹏 https://github.com/ElderDriverMan/Caipiao
 		
 
 
