@@ -1,20 +1,4 @@
-# 移动171《Android应用项目设计》
-## 项目题目：天气预报APP的设计与实现
-### 成员：李某某、张某某
-
-### 2019-06-17 周一完成内容：
-1、需求分析：
-2、概要设计：
-
-
-### 2019-06-18 周二完成内容：
-1、功能设计：
-2、界面效果设计
-
-
-### 2019-06-19 周三完成内容：
-1、
-
+#《Android应用项目开发》分组列表
 
 # 移动171列表：
 
@@ -36,7 +20,7 @@
 ### 第16组 18白银数据查询 陈浚杰 陈晓辉 https://github.com/daidailiuxuejia/SliverData171
 ### 第17组 19网易新闻	曾浪平 霍林清  https://github.com/yidong17106/ProjectDemo
 ### 第18组 20新华书店	李智 何昱豪  https://github.com/01LiZhi/StoreBook
-### 第19组 21头条新闻	梁浩文 龚崇丽  https://github.com/gcl0317/gcl0317
+### 第19组 21头条新闻	梁浩文 龚崇丽  https://github.com/kabuton/wynews
 ### 第20组 22福利彩票	杨鹏 https://github.com/ElderDriverMan/Caipiao
 		
 
