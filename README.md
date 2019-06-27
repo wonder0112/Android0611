@@ -19,7 +19,7 @@
 ### 第15组 17货币汇率	邝镇宏 黄鸿涛   https://github.com/leioalba/MyApp
 ### 第16组 18白银数据查询 陈浚杰 陈晓辉 https://github.com/daidailiuxuejia/SliverData171
 ### 第17组 19网易新闻	曾浪平 霍林清  https://github.com/yidong17106/ProjectDemo
-### 第18组 20新华书店	李智 何昱豪  https://github.com/01LiZhi/StoreBook
+### 第18组 20新华书店	李智 何昱豪  https://github.com/heyvhao/Xinhua-Bookstore
 ### 第19组 21头条新闻	梁浩文 龚崇丽  https://github.com/kabuton/wynews
 ### 第20组 22福利彩票	杨鹏 https://github.com/ElderDriverMan/Caipiao
 		
